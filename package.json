@@ -1,9 +1,9 @@
 {
-  "name": "@daoswapdex-heco-testnet/core-contract",
+  "name": "@daoswapdex/core-dex",
   "version": "1.0.0",
   "license": "MIT",
   "description": "Core contracts for the Daoswap protocol",
-  "repository": "https://github.com/daoswapdex-heco-testnet/core-contract",
+  "repository": "https://github.com/daoswapdex/core-dex",
   "keywords": [
     "daoswap",
     "ethereum"
